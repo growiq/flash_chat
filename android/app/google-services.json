@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877828880987",
+    "project_id": "flash-chat-9e7ca",
+    "storage_bucket": "flash-chat-9e7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877828880987:android:d28ab24e53e55fe8bb5d7e",
+        "android_client_info": {
+          "package_name": "com.virali.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoADu3MJj3jRiWqKL3PVGWJN7eY2YVDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
